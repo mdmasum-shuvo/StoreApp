@@ -1,6 +1,6 @@
 # StoreApp
 
-navigation component
-viewmodel
-livedata 
+navigation component</br>
+viewmodel</br>
+livedata </br>
 udacity nanodegree course
