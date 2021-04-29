@@ -2,7 +2,7 @@
 
 This is the very basic app for Shoe Inventory of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
-#The Shoe Store
+# The Shoe Store
 
 This project will consist of five screens. 
 
